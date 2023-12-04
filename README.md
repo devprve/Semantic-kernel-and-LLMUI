@@ -19,6 +19,15 @@ Video link :
 https://drive.google.com/file/d/1nJSn0g6a8Sw1x1nDH5rV2m7EAnMevSrq/view?usp=sharing
 
 
+b) Semantic kernel 
+
+Build a chat copilot with semantic kernel framework end2end with python using latest api (ideally assistant api)
+
+https://devblogs.microsoft.com/semantic-kernel/openai-assistants-the-power-of-templated-assistant-instructions/
+
+Solution : https://colab.research.google.com/drive/1W_6j-mR4231-Kr85jPpn1_X2dQYdgVgU?usp=sharing
+
+
 
 
 
