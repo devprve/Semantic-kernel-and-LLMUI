@@ -27,6 +27,11 @@ https://devblogs.microsoft.com/semantic-kernel/openai-assistants-the-power-of-te
 
 Solution : https://colab.research.google.com/drive/1W_6j-mR4231-Kr85jPpn1_X2dQYdgVgU?usp=sharing
 
+Medium link : https://medium.com/@devipriyassn.dp/building-an-advanced-chat-copilot-with-semantic-kernel-framework-5b22d8e43b4c
+
+Video link : 
+https://drive.google.com/file/d/1nJSn0g6a8Sw1x1nDH5rV2m7EAnMevSrq/view?usp=sharing
+
 
 
 
